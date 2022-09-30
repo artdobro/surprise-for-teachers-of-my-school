@@ -1,0 +1,61 @@
+.svideo{
+    align-items: center;
+}
+.video{
+    width: 500px; 
+    margin-left: 400px; 
+}
+h1{
+    text-align: center;
+    color: #E3256B;
+    font-size: 60px;
+    font-family: sans-serif;
+    margin: 0px;   
+}
+.hero{
+    min-width: 100%;
+}
+.some-text{
+    font-size: 26px;
+    font-family: sans-serif;
+    text-align: center;
+}
+.stishki{
+    text-decoration: none;
+}
+.text{
+    font-size: 20px;
+    font-family: sans-serif;
+    line-height: 35px;
+    
+}
+.stihi{
+    text-decoration: none;
+    display: flex;
+    justify-content: space-around;
+}
+.stih{
+    text-decoration: none;
+}
+.header{
+    background-color: #EFA4EC;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.foot{
+    background-color: #EFA4EC;
+    margin: 0px;
+    margin-top: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.foot-text{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #CB6586;
+    text-align: center;
+}
+body{
+    margin: 0px;
+    background-color: #FBCEB1;
+}
